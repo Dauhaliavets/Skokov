@@ -6,11 +6,13 @@
 @import "base/base";
 
 // Components
+@import "components/logo";
 @import "components/button";
 @import "components/heading-h2";
 @import "components/heading-h3";
 @import "components/heading-h4";
 @import "components/item_horizontal-line";
+
 
 // Layouts
 @import "layouts/wrapper";
@@ -22,5 +24,9 @@
 @import "layouts/about";
 @import "layouts/strategy";
 @import "layouts/about";
+@import "layouts/news";
+@import "layouts/contact";
+@import "layouts/footer_upper";
+@import "layouts/footer";
 
 
